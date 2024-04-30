@@ -27,7 +27,7 @@ If you would like to contribute to the project or run it locally, follow these s
 Clone this repository to your local machine:
 
 ```
-git clone https://github.com/mdjamilkashemporosh/paint.git
+git clone https://github.com/mdjamilkashemporosh/reactPDF.git
 ```
 
 Navigate to the project directory:
